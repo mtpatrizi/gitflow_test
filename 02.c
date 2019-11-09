@@ -1,0 +1,1 @@
+printf("mébmat ramlig o");
